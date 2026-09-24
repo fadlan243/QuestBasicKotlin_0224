@@ -31,3 +31,7 @@ Loops
 
 Named Arguments
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/bba02ad3-b632-4d47-92d1-6b4f0966bfdd" />
+
+
+Access Properties 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d3ed30f9-9837-48d4-ba1c-35bc7d65f65f" />
