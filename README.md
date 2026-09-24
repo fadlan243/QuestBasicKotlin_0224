@@ -15,3 +15,7 @@ List
 
 Set
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9f10894e-6c19-4d05-aafc-047db6a1cc18" />
+
+
+Map
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3a4cd7c8-548f-48cb-ade2-b6ec437f686d" />
