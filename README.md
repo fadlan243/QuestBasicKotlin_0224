@@ -19,3 +19,7 @@ Set
 
 Map
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3a4cd7c8-548f-48cb-ade2-b6ec437f686d" />
+
+
+Conditional Expressions
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2269b9be-3b80-49d9-ab5b-deea5e5facf7" />
