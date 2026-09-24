@@ -28,3 +28,6 @@ Conditional Expressions
 Loops
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8aee26e8-a19c-4bc9-a41d-09d9c0a47281" />
 
+
+Named Arguments
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/bba02ad3-b632-4d47-92d1-6b4f0966bfdd" />
