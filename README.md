@@ -23,3 +23,8 @@ Map
 
 Conditional Expressions
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2269b9be-3b80-49d9-ab5b-deea5e5facf7" />
+
+
+Loops
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8aee26e8-a19c-4bc9-a41d-09d9c0a47281" />
+
